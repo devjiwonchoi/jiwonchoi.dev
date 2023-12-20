@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import '@/globals.css'
 
-export default function RootLayout({
+export default function ContentsRootLayout({
   children,
 }: {
   children: React.ReactNode
